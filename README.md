@@ -2,7 +2,7 @@
 
 > Полноценный realtime-мессенджер с личными и групповыми чатами, обменом сообщениями и файлами, уведомлениями и синхронизацией состояния между клиентами.
 
-**[Демо](https://vitaliyarmss.github.io/messenger-frontend)** · **[Backend](https://github.com/VitaliyArmss/messenger-backend)** · **[Frontend](https://github.com/VitaliyArmss/messengerclient)** · **[Документация](https://github.com/VitaliyArmss/messenger-project/blob/main/docs/architecture.md)**
+**[Демо](https://vitaliyarmss.github.io/messenger-frontend)** · **[Backend](https://github.com/VitaliyArmss/messenger-backend)** · **[Frontend](https://github.com/VitaliyArmss/messenger-frontend)** · **[Документация](https://github.com/VitaliyArmss/messenger-project/blob/main/docs/architecture.md)**
 
 ---
 
