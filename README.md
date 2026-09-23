@@ -6,6 +6,19 @@
 
 ---
 
+## Аккаунты для тестирования
+
+example1@mail
+123
+
+example2@mail
+123
+
+example3@mail
+123
+
+---
+
 ## О проекте
 
 Messenger — учебный full-stack проект, разработанный с нуля: от модели данных и backend-логики до realtime-коммуникации, object storage и развёртывания на VPS.
