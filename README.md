@@ -8,14 +8,14 @@
 
 ## Аккаунты для тестирования
 
-example1@mail
-123
+email: example1@mail
+pass: 123
 
-example2@mail
-123
+email: example2@mail
+pass: 123
 
-example3@mail
-123
+email: example3@mail
+pass: 123
 
 ---
 
